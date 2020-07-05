@@ -1,3 +1,7 @@
+I made this fork because I've had enough of the radical left forcing its ideology down my throat.
+I have removed all leftist propaganda from the project and the wiki.  I am planning to add more projects and
+also add automation. I welcome any contributions.
+
 # dotnetfoundation-website
 
 This repository contains the solution that is used to build and deploy the [dotnetfoundation](https://dotnetfoundation.org/) website.
